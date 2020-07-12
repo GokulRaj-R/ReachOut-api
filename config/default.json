@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://user1:pass1@cluster0-socialmedia.refoc.mongodb.net/dbase1?retryWrites=true&w=majority",
-  "jwtToken": "MyTokenSecret"
-}
